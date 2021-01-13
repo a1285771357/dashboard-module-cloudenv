@@ -24,6 +24,7 @@ export default {
   index: 9,
   meta: {
     label: i18n.t('cloudenv.text_8'),
+    hidden: true,
     icon: 'onecloud',
   },
   menus: [
